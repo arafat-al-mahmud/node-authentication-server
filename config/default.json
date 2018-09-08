@@ -1,0 +1,5 @@
+{
+    "port" : 3000,
+    "jwt_secret" : "d3f@ult_s3cr3t",
+    "jwt_expiration_in_seconds" : 86400
+}

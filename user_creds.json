@@ -1,0 +1,13 @@
+[
+    {
+        "id" : 1,
+        "email" : "john.doe@dummy.com",
+        "password" : "1234abcd"
+    },
+
+    {
+        "id" : 2,
+        "email" : "lorem.ipsum@dummy.com",
+        "password" : "abcd1234"
+    }
+]

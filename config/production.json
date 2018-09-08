@@ -1,0 +1,4 @@
+{
+    "port" : 5000,
+    "jwt_secret" : "production_s3cr3t"
+}

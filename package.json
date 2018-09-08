@@ -1,0 +1,23 @@
+{
+  "name": "authentication-server",
+  "version": "1.0.0",
+  "description": "Test Project for SendHelper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arafat Al Mahmud",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-dir": "^1.0.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "load-json-file": "^5.0.0",
+    "morgan": "^1.9.0",
+    "winston": "^3.1.0"
+  }
+}

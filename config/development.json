@@ -1,0 +1,4 @@
+{
+    "port" : 4000,
+    "jwt_secret" : "d3v3lopm3nt_s3cr3t"
+}
